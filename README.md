@@ -1,4 +1,4 @@
-# [find-files.sh](find-files.sh)
+# [find.sh](find.sh)
 Bash commands to quickly find files.
 <br/><br/>
 ## Example usages:
